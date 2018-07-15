@@ -26,7 +26,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Column="1"></TextBlock>
-        <TextBlock MinWidth="100" Grid.Row="2" Grid.Column="1" x:Name="FirstName"></TextBlock>
+        <TextBlock Text="{Binding Path=FirstName, Mode=OneWay}" Grid.Row="1" Grid.Column="1"></TextBlock>
+        <TextBox MinWidth="100" Grid.Row="2" Grid.Column="1" x:Name="FirstName"></TextBox>
     </Grid>
 </Window>
