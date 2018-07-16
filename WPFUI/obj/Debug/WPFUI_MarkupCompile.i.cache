@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\App.xaml
-1-250345876
+3-1791676760
 
-11-1520483189
+171330399999
 70-572400966
-Views\ShellView.xaml;
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
-True
+False
 

@@ -23,3 +23,7 @@ C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\WPFUI.exe
 C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\WPFUI.pdb
 C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\WPFUI.csprojAssemblyReference.cache
 C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\WPFUI.csproj.CopyComplete
+C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\Views\FirstChildView.g.cs
+C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\Views\SecondChildView.g.cs
+C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\Views\FirstChildView.baml
+C:\Users\Aldrovando\source\repos\CMDemo\WPFUI\obj\Release\Views\SecondChildView.baml
